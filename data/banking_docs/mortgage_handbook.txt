@@ -1,0 +1,284 @@
+COMPREHENSIVE MORTGAGE HANDBOOK
+BANK OF EXAMPLE
+Version 3.0 - 2023
+
+TABLE OF CONTENTS
+1. MORTGAGE PRODUCTS OVERVIEW
+2. FIXED-RATE MORTGAGES
+3. ADJUSTABLE-RATE MORTGAGES
+4. GOVERNMENT-BACKED LOANS
+5. JUMBO LOANS
+6. SPECIAL MORTGAGE PROGRAMS
+7. UNDERWRITING GUIDELINES
+8. MORTGAGE SERVICING
+
+1. MORTGAGE PRODUCTS OVERVIEW
+
+1.1 Introduction to Mortgage Lending
+A mortgage is a loan secured by real property through the use of a mortgage note which evidences the existence of the loan and the encumbrance of the property as security for the loan. The Bank of Example offers a variety of mortgage products designed to meet the diverse needs of our customers.
+
+1.2 Key Mortgage Terms
+- Principal: The original loan amount
+- Interest: The cost of borrowing money, expressed as a percentage
+- Term: The length of time to repay the loan
+- Amortization: The process of paying off a loan with regular payments
+- Loan-to-Value (LTV): The ratio of the loan amount to the appraised value of the property
+- Debt-to-Income (DTI): The percentage of a consumer's monthly gross income that goes toward paying debts
+
+2. FIXED-RATE MORTGAGES
+
+2.1 Product Description
+Fixed-rate mortgages offer a consistent interest rate and monthly payment for the life of the loan. The interest rate is determined at closing and remains the same, regardless of market fluctuations.
+
+2.2 Available Terms
+The Bank of Example offers fixed-rate mortgages with the following terms:
+- 30-year fixed
+- 20-year fixed
+- 15-year fixed
+- 10-year fixed
+
+2.3 Interest Rates and Pricing
+Interest rates for fixed-rate mortgages are determined based on market conditions, loan term, loan amount, credit score, and loan-to-value ratio. See Table 2.1 for current base rates.
+
+Table 2.1: Fixed-Rate Mortgage Base Rates (as of January 2023)
+| Term | Excellent Credit (740+) | Good Credit (700-739) | Fair Credit (660-699) | Minimum Credit (620-659) |
+|------|------------------------|----------------------|----------------------|--------------------------|
+| 30-Year | 5.875% | 6.125% | 6.500% | 6.875% |
+| 20-Year | 5.625% | 5.875% | 6.250% | 6.625% |
+| 15-Year | 5.250% | 5.500% | 5.875% | 6.250% |
+| 10-Year | 5.000% | 5.250% | 5.625% | 6.000% |
+
+2.4 Rate Lock Options
+Borrowers may lock their interest rate for the following periods:
+- 30 days: No fee
+- 45 days: 0.125% of loan amount
+- 60 days: 0.25% of loan amount
+- 90 days: 0.50% of loan amount
+
+2.5 Amortization Tables
+The following table shows the monthly principal and interest payment per $100,000 borrowed at various interest rates and terms (not including taxes and insurance).
+
+Table 2.2: Monthly Payment per $100,000 Borrowed
+| Interest Rate | 30-Year Term | 20-Year Term | 15-Year Term | 10-Year Term |
+|---------------|--------------|--------------|--------------|--------------|
+| 5.000% | $536.82 | $659.96 | $790.79 | $1,060.66 |
+| 5.250% | $552.20 | $674.97 | $805.23 | $1,073.64 |
+| 5.500% | $567.79 | $690.15 | $819.82 | $1,086.74 |
+| 5.750% | $583.57 | $705.51 | $834.56 | $1,099.96 |
+| 6.000% | $599.55 | $721.03 | $849.44 | $1,113.27 |
+| 6.250% | $615.72 | $736.71 | $864.45 | $1,126.71 |
+| 6.500% | $632.07 | $752.55 | $879.60 | $1,140.25 |
+| 6.750% | $648.60 | $768.54 | $894.88 | $1,153.90 |
+| 7.000% | $665.30 | $784.68 | $910.28 | $1,167.66 |
+
+3. ADJUSTABLE-RATE MORTGAGES
+
+3.1 Product Description
+Adjustable-rate mortgages (ARMs) offer an initial fixed-rate period followed by periodic rate adjustments based on market indices. ARMs typically offer lower initial rates compared to fixed-rate mortgages.
+
+3.2 Available ARM Products
+The Bank of Example offers the following ARM products:
+- 5/1 ARM: Fixed for 5 years, then adjusts annually
+- 7/1 ARM: Fixed for 7 years, then adjusts annually
+- 10/1 ARM: Fixed for 10 years, then adjusts annually
+
+3.3 Interest Rate Adjustments
+After the initial fixed period, the interest rate will adjust annually based on the 1-Year Treasury Constant Maturity Rate plus a margin of 2.75%.
+
+3.4 Adjustment Caps
+All ARM products include caps that limit how much the interest rate can change:
+
+Table 3.1: ARM Adjustment Caps
+| ARM Type | Initial Adjustment Cap | Subsequent Adjustment Cap | Lifetime Cap |
+|----------|------------------------|---------------------------|--------------|
+| 5/1 ARM | 2% | 2% | 5% |
+| 7/1 ARM | 2% | 2% | 5% |
+| 10/1 ARM | 2% | 2% | 5% |
+
+3.5 Current ARM Rates
+Table 3.2: ARM Initial Interest Rates (as of January 2023)
+| ARM Type | Excellent Credit (740+) | Good Credit (700-739) | Fair Credit (660-699) | Minimum Credit (620-659) |
+|----------|------------------------|----------------------|----------------------|--------------------------|
+| 5/1 ARM | 5.500% | 5.750% | 6.125% | 6.500% |
+| 7/1 ARM | 5.625% | 5.875% | 6.250% | 6.625% |
+| 10/1 ARM | 5.750% | 6.000% | 6.375% | 6.750% |
+
+4. GOVERNMENT-BACKED LOANS
+
+4.1 FHA Loans
+FHA loans are insured by the Federal Housing Administration and designed to help borrowers with lower credit scores or smaller down payments.
+
+4.1.1 FHA Loan Requirements
+- Minimum credit score: 580 for 3.5% down payment; 500-579 for 10% down payment
+- Maximum LTV: 96.5% (with 3.5% down payment)
+- Debt-to-income ratio: 43% (can be higher with compensating factors)
+- Mortgage insurance: Required for the life of the loan if down payment is less than 10%
+
+4.1.2 FHA Mortgage Insurance Premium (MIP)
+Table 4.1: FHA MIP Rates
+| Loan Amount | Down Payment | Annual MIP | Duration |
+|-------------|--------------|------------|----------|
+| ≤$625,500 | <5% | 0.85% | Life of loan |
+| ≤$625,500 | ≥5% | 0.80% | 11 years |
+| >$625,500 | <5% | 1.05% | Life of loan |
+| >$625,500 | ≥5% | 1.00% | 11 years |
+
+4.2 VA Loans
+VA loans are guaranteed by the U.S. Department of Veterans Affairs and available to eligible veterans, active duty service members, and certain surviving spouses.
+
+4.2.1 VA Loan Requirements
+- Eligible military service
+- Minimum credit score: 620 (Bank of Example requirement)
+- No down payment required
+- No private mortgage insurance
+- VA funding fee required (varies based on down payment and service type)
+
+4.2.2 VA Funding Fee
+Table 4.2: VA Funding Fee Percentages
+| Type of Service | Down Payment | First-Time Use | Subsequent Use |
+|----------------|--------------|---------------|----------------|
+| Regular Military | 0% | 2.30% | 3.60% |
+| Regular Military | 5-9.9% | 1.65% | 1.65% |
+| Regular Military | 10%+ | 1.40% | 1.40% |
+| Reserves/Guard | 0% | 2.30% | 3.60% |
+| Reserves/Guard | 5-9.9% | 1.65% | 1.65% |
+| Reserves/Guard | 10%+ | 1.40% | 1.40% |
+
+4.3 USDA Loans
+USDA loans are guaranteed by the U.S. Department of Agriculture and designed for rural and suburban homebuyers with moderate to low incomes.
+
+4.3.1 USDA Loan Requirements
+- Property must be in an eligible rural area
+- Household income cannot exceed 115% of the area median income
+- Minimum credit score: 640 (Bank of Example requirement)
+- No down payment required
+- Upfront guarantee fee and annual fee required
+
+5. JUMBO LOANS
+
+5.1 Product Description
+Jumbo loans are mortgage loans that exceed the conforming loan limits set by the Federal Housing Finance Agency (FHFA). As of 2023, the conforming loan limit in most areas is $726,200.
+
+5.2 Jumbo Loan Requirements
+- Minimum credit score: 700
+- Maximum LTV: 80%
+- Minimum down payment: 20%
+- Maximum DTI: 43%
+- Cash reserves: 6-12 months of payments
+- Full documentation required
+
+5.3 Jumbo Loan Rates
+Table 5.1: Jumbo Loan Rates (as of January 2023)
+| Term | Excellent Credit (740+) | Good Credit (700-739) |
+|------|------------------------|----------------------|
+| 30-Year Fixed | 6.125% | 6.375% |
+| 15-Year Fixed | 5.500% | 5.750% |
+| 7/1 ARM | 5.875% | 6.125% |
+| 10/1 ARM | 6.000% | 6.250% |
+
+6. SPECIAL MORTGAGE PROGRAMS
+
+6.1 First-Time Homebuyer Program
+The Bank of Example offers special incentives for first-time homebuyers, defined as individuals who have not owned a home in the past three years.
+
+6.1.1 Program Benefits
+- Reduced origination fees (0.25% discount)
+- Down payment assistance options
+- Homebuyer education courses
+- Flexible credit requirements
+
+6.2 Construction-to-Permanent Loans
+Construction-to-permanent loans combine a construction loan with a permanent mortgage into a single loan with one closing.
+
+6.2.1 Program Features
+- Single closing for both construction and permanent financing
+- Interest-only payments during construction phase
+- Loan converts to permanent mortgage after construction completion
+- Available in 15-year and 30-year terms
+
+6.3 Home Renovation Loans
+Home renovation loans allow borrowers to finance both the purchase (or refinance) of a home and the cost of renovations with a single loan.
+
+6.3.1 Program Features
+- Finance up to 95% of the as-completed value
+- Available for 1-4 unit properties
+- Funds held in escrow and disbursed as renovation progresses
+- Available in 15-year and 30-year terms
+
+7. UNDERWRITING GUIDELINES
+
+7.1 Credit Requirements
+Table 7.1: Minimum Credit Score Requirements
+| Loan Type | Minimum Credit Score |
+|-----------|---------------------|
+| Conventional | 620 |
+| FHA | 580 (3.5% down), 500 (10% down) |
+| VA | 620 |
+| USDA | 640 |
+| Jumbo | 700 |
+
+7.2 Debt-to-Income (DTI) Ratio
+Table 7.2: Maximum DTI Ratio Requirements
+| Loan Type | Maximum Front-End DTI | Maximum Back-End DTI |
+|-----------|---------------------|---------------------|
+| Conventional | 28% | 36% (up to 45% with compensating factors) |
+| FHA | 31% | 43% (up to 50% with compensating factors) |
+| VA | N/A | 41% (can be higher with residual income) |
+| USDA | 29% | 41% |
+| Jumbo | 28% | 43% |
+
+7.3 Loan-to-Value (LTV) Ratio
+Table 7.3: Maximum LTV Ratio Requirements
+| Loan Type | Maximum LTV |
+|-----------|------------|
+| Conventional | 97% (first-time homebuyers), 95% (others) |
+| FHA | 96.5% |
+| VA | 100% |
+| USDA | 100% |
+| Jumbo | 80% |
+
+7.4 Income Documentation
+Required income documentation includes:
+- Most recent 30 days of pay stubs
+- W-2 forms for the past 2 years
+- Federal tax returns for the past 2 years (if self-employed)
+- Year-to-date profit and loss statement (if self-employed)
+- Documentation of other income sources (rental income, retirement, etc.)
+
+7.5 Asset Documentation
+Required asset documentation includes:
+- Bank statements for the past 2 months
+- Investment account statements for the past 2 months
+- Documentation of gift funds (if applicable)
+- Documentation of sale of previous home (if applicable)
+
+8. MORTGAGE SERVICING
+
+8.1 Payment Options
+The Bank of Example offers the following payment options:
+- Online banking
+- Automatic payment
+- Phone payment
+- Mail payment
+- In-branch payment
+
+8.2 Escrow Accounts
+Escrow accounts are required for all loans with LTV greater than 80% and are used to pay:
+- Property taxes
+- Homeowners insurance
+- Flood insurance (if applicable)
+- Mortgage insurance (if applicable)
+
+8.3 Annual Escrow Analysis
+The Bank of Example conducts an annual escrow analysis to ensure that the escrow account has sufficient funds to pay taxes and insurance. If there is a shortage or surplus, the monthly payment may be adjusted accordingly.
+
+8.4 Prepayment Penalties
+The Bank of Example does not charge prepayment penalties on any residential mortgage products.
+
+8.5 Late Payment Policy
+- Grace period: 15 days after due date
+- Late fee: 5% of payment amount
+- Reporting to credit bureaus: Payments more than 30 days late
+- Foreclosure process: Begins after 120 days of delinquency
+
+END OF DOCUMENT 

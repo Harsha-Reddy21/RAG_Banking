@@ -1,0 +1,445 @@
+BANKING COMPLIANCE MANUAL
+BANK OF EXAMPLE
+Version 4.0 - 2023
+
+TABLE OF CONTENTS
+1. COMPLIANCE MANAGEMENT SYSTEM
+2. DEPOSIT REGULATIONS
+3. LENDING REGULATIONS
+4. CONSUMER PROTECTION REGULATIONS
+5. ANTI-MONEY LAUNDERING COMPLIANCE
+6. ELECTRONIC BANKING REGULATIONS
+7. PRIVACY AND DATA SECURITY
+8. FAIR LENDING AND FAIR HOUSING
+9. COMMUNITY REINVESTMENT ACT
+10. REGULATORY EXAMINATION PREPARATION
+
+1. COMPLIANCE MANAGEMENT SYSTEM
+
+1.1 Overview of Compliance Management System
+A Compliance Management System (CMS) is the method by which the Bank of Example manages the entire consumer compliance process. It includes the compliance program and compliance audit function, and is designed to ensure compliance with federal consumer protection laws and regulations.
+
+1.2 Components of a Compliance Management System
+The Bank of Example's CMS consists of three interdependent elements:
+- Board and management oversight
+- Compliance program (policies, procedures, training, monitoring, consumer complaint response)
+- Compliance audit function
+
+1.3 Board and Management Oversight
+The Board of Directors and senior management are responsible for developing and implementing a CMS that effectively manages the compliance responsibilities of the bank. Their oversight includes:
+- Demonstrating clear expectations about compliance
+- Adopting clear policy statements
+- Appointing a qualified compliance officer
+- Allocating resources to compliance functions
+- Conducting periodic compliance reviews
+- Promptly addressing compliance issues
+
+1.4 Compliance Program
+The Bank of Example's compliance program consists of:
+
+1.4.1 Policies and Procedures
+Written policies and procedures that are updated regularly to ensure compliance with applicable federal consumer protection laws and regulations.
+
+1.4.2 Training
+Comprehensive training program to ensure that all employees understand their compliance responsibilities.
+
+1.4.3 Monitoring
+Regular monitoring to detect and promptly correct compliance deficiencies.
+
+1.4.4 Consumer Complaint Response
+A process for addressing consumer complaints and using them to identify potential compliance issues.
+
+1.5 Compliance Audit Function
+The compliance audit function provides an independent review and testing of the bank's compliance with consumer protection laws and regulations and the adequacy of the CMS.
+
+2. DEPOSIT REGULATIONS
+
+2.1 Regulation DD (Truth in Savings Act)
+Regulation DD requires the Bank of Example to provide disclosures that enable consumers to make meaningful comparisons of deposit accounts.
+
+2.1.1 Key Requirements
+- Account disclosures must be provided before an account is opened
+- Subsequent disclosures required for certain changes in terms
+- Advertising rules for deposit products
+- Periodic statement requirements
+
+Table 2.1: Regulation DD Disclosure Requirements
+| Type of Disclosure | When Required | Content Requirements |
+|-------------------|---------------|---------------------|
+| Initial Account Disclosures | Before account opening | Rate information, minimum balance requirements, fees, transaction limitations |
+| Change in Terms Notice | 30 days before effective date | Description of change, effective date |
+| Maturity Notices (Time Accounts) | 30 days before maturity | Maturity date, whether account will renew, rate information |
+
+2.2 Regulation CC (Expedited Funds Availability Act)
+Regulation CC governs the availability of funds deposited in checking accounts and the collection and return of checks.
+
+2.2.1 Key Requirements
+- Funds availability disclosure at account opening
+- Funds availability policy notice posted at branches
+- Specific hold periods for different types of deposits
+- Notification requirements for held funds
+
+Table 2.2: Regulation CC Funds Availability Schedule
+| Type of Deposit | When Funds Are Available |
+|-----------------|--------------------------|
+| Cash, Electronic Payments, Treasury Checks | Next business day |
+| Local Checks | 2nd business day after deposit |
+| New Accounts (first 30 days) | Special rules apply |
+| Large Deposits (over $5,525) | May hold amount over $5,525 |
+| Exception Holds | Up to 7 business days |
+
+2.3 Regulation D (Reserve Requirements)
+Regulation D imposes reserve requirements on certain deposits and other liabilities of depository institutions.
+
+2.3.1 Key Requirements
+- Classification of accounts as transaction or savings deposits
+- Limitations on certain withdrawals and transfers from savings deposits
+- Reserve requirement calculations and reporting
+
+3. LENDING REGULATIONS
+
+3.1 Regulation Z (Truth in Lending Act)
+Regulation Z promotes the informed use of consumer credit by requiring disclosures about its terms and cost.
+
+3.1.1 Key Requirements
+- Disclosure of finance charges and annual percentage rate (APR)
+- Right of rescission for certain transactions
+- Advertising requirements
+- Billing error resolution procedures
+- Credit card provisions
+
+Table 3.1: Regulation Z Disclosure Requirements
+| Type of Credit | Timing of Disclosure | Required Disclosures |
+|---------------|---------------------|---------------------|
+| Closed-End Credit | Before consummation | Finance charge, APR, amount financed, total payments |
+| Open-End Credit | Before first transaction | APR, fees, grace period, balance calculation method |
+| Credit Cards | Before account opening | APR, fees, penalties, rewards terms |
+| Mortgage Loans | Within 3 business days of application | Loan Estimate |
+| Mortgage Loans | At least 3 business days before closing | Closing Disclosure |
+
+3.2 Regulation B (Equal Credit Opportunity Act)
+Regulation B prohibits discrimination in any aspect of a credit transaction on the basis of race, color, religion, national origin, sex, marital status, age, receipt of public assistance, or good faith exercise of rights under the Consumer Credit Protection Act.
+
+3.2.1 Key Requirements
+- Prohibition against discrimination in any aspect of a credit transaction
+- Rules concerning taking and evaluating applications
+- Notification requirements (notice of action taken)
+- Record retention requirements
+- Special purpose credit programs
+
+Table 3.2: Regulation B Notification Requirements
+| Type of Notice | Timing | Content Requirements |
+|---------------|--------|---------------------|
+| Approval | Within 30 days of receiving completed application | N/A |
+| Adverse Action | Within 30 days of receiving completed application or taking adverse action | Principal reasons for action, ECOA notice |
+| Incomplete Application | Within 30 days of receiving application | Notice of incompleteness |
+| Counteroffers | Within 30 days of receiving completed application | Disclosure that original terms not available, right to decline counteroffer |
+
+3.3 Regulation X (Real Estate Settlement Procedures Act)
+Regulation X provides consumers with information about the real estate settlement process and prohibits certain practices that increase the cost of settlement services.
+
+3.3.1 Key Requirements
+- Loan Estimate within 3 business days of application
+- Closing Disclosure at least 3 business days before closing
+- Prohibition against kickbacks and unearned fees
+- Escrow account administration
+- Mortgage servicing rules
+
+3.4 Regulation C (Home Mortgage Disclosure Act)
+Regulation C requires the collection and reporting of loan data to assist in determining whether financial institutions are serving the housing needs of their communities.
+
+3.4.1 Key Requirements
+- Collection of data about home purchase loans, home improvement loans, and refinancings
+- Reporting of loan data to federal agencies
+- Disclosure of data to the public
+
+Table 3.3: Regulation C Reportable Data Points
+| Category | Data Points |
+|----------|------------|
+| Application Information | Application date, loan type, loan purpose, preapproval |
+| Property Information | Property address, property value, occupancy type |
+| Applicant Information | Ethnicity, race, sex, age, income |
+| Loan Information | Loan amount, interest rate, loan term, introductory rate period |
+| Action Information | Action taken, date, reason for denial if applicable |
+
+4. CONSUMER PROTECTION REGULATIONS
+
+4.1 Regulation E (Electronic Fund Transfers Act)
+Regulation E establishes the rights, liabilities, and responsibilities of participants in electronic fund transfer systems.
+
+4.1.1 Key Requirements
+- Initial disclosures of terms and conditions
+- Change in terms notices
+- Transaction receipts and periodic statements
+- Error resolution procedures
+- Limitations on consumer liability for unauthorized transfers
+
+Table 4.1: Regulation E Error Resolution Timeline
+| Step | Timeframe |
+|------|-----------|
+| Consumer Notice of Error | Within 60 days of statement |
+| Financial Institution Investigation | Within 10 business days (or 45 days with provisional credit) |
+| Notification to Consumer | Within 3 business days after completing investigation |
+| Correction of Error | Within 1 business day after determination |
+
+4.2 Regulation P (Privacy of Consumer Financial Information)
+Regulation P governs the treatment of nonpublic personal information about consumers by financial institutions.
+
+4.2.1 Key Requirements
+- Initial privacy notice at customer relationship establishment
+- Annual privacy notices
+- Opt-out rights for certain information sharing
+- Limitations on disclosure of account numbers
+- Limits on redisclosure and reuse of information
+
+4.3 Regulation DD (Electronic Fund Transfer Act)
+Regulation DD implements the Truth in Savings Act, requiring disclosure of terms and conditions of deposit accounts.
+
+4.3.1 Key Requirements
+- Account disclosures
+- Subsequent disclosures
+- Periodic statement disclosures
+- Advertising requirements
+- Additional disclosure requirements for overdraft services
+
+4.4 Unfair, Deceptive, or Abusive Acts or Practices (UDAAP)
+The Bank of Example is prohibited from engaging in unfair, deceptive, or abusive acts or practices in violation of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+4.4.1 Key Definitions
+- Unfair: Causes or is likely to cause substantial injury to consumers that is not reasonably avoidable and not outweighed by benefits
+- Deceptive: Misleads or is likely to mislead a consumer, from the consumer's perspective, and is material
+- Abusive: Materially interferes with a consumer's ability to understand a term or condition, or takes unreasonable advantage of a consumer
+
+5. ANTI-MONEY LAUNDERING COMPLIANCE
+
+5.1 Bank Secrecy Act (BSA) and Anti-Money Laundering (AML) Program
+The Bank of Example maintains a BSA/AML compliance program designed to comply with the Bank Secrecy Act and its implementing regulations.
+
+5.1.1 Key Components of BSA/AML Program
+- A system of internal controls
+- Independent testing
+- Designation of a BSA/AML officer
+- Training for appropriate personnel
+- Customer identification program
+- Customer due diligence
+- Beneficial ownership requirements
+- Suspicious activity monitoring and reporting
+- Currency transaction reporting
+
+5.2 Customer Identification Program (CIP)
+The Bank of Example's CIP is designed to enable the bank to form a reasonable belief that it knows the true identity of each customer.
+
+5.2.1 CIP Requirements
+- Collection of identifying information (name, date of birth, address, identification number)
+- Verification of identity
+- Recordkeeping
+- Comparison with government lists
+
+5.3 Suspicious Activity Reporting (SAR)
+The Bank of Example files SARs for transactions that are suspicious in nature and meet certain thresholds.
+
+5.3.1 SAR Filing Requirements
+- Filing deadline: 30 calendar days after detection
+- Mandatory filing thresholds:
+  * Insider abuse involving any amount
+  * Transactions aggregating $5,000 or more where a suspect can be identified
+  * Transactions aggregating $25,000 or more regardless of potential suspects
+  * Transactions aggregating $5,000 or more that involve potential money laundering or BSA violations
+
+5.4 Currency Transaction Reporting (CTR)
+The Bank of Example files CTRs for currency transactions over $10,000.
+
+5.4.1 CTR Requirements
+- Filing deadline: 15 calendar days after the transaction
+- Aggregation of multiple transactions in a single business day
+- Exemption procedures for certain customers
+
+Table 5.1: BSA/AML Reporting Requirements
+| Report Type | Threshold | Filing Deadline |
+|------------|-----------|-----------------|
+| Currency Transaction Report (CTR) | $10,000 | 15 days after transaction |
+| Suspicious Activity Report (SAR) | $5,000 | 30 days after detection |
+| Report of International Transportation of Currency (CMIR) | $10,000 | At time of transportation |
+| Foreign Bank Account Report (FBAR) | $10,000 | April 15 of following year |
+
+6. ELECTRONIC BANKING REGULATIONS
+
+6.1 Electronic Signatures in Global and National Commerce Act (E-SIGN)
+E-SIGN allows for the use of electronic records and signatures in consumer transactions.
+
+6.1.1 Key Requirements
+- Consumer consent to electronic records
+- Clear and conspicuous statement of rights
+- Hardware and software requirements
+- Record retention
+
+6.2 Mobile Banking Compliance
+Mobile banking services must comply with applicable regulations, including:
+- Regulation E (electronic fund transfers)
+- Regulation P (privacy)
+- Regulation Z (credit card transactions)
+- Regulation DD (truth in savings)
+
+6.3 Remote Deposit Capture
+Remote deposit capture services must comply with:
+- Check 21 Act requirements
+- Funds availability requirements
+- Risk management guidelines
+- Customer agreements and disclosures
+
+7. PRIVACY AND DATA SECURITY
+
+7.1 Gramm-Leach-Bliley Act (GLBA) Privacy Provisions
+The GLBA requires financial institutions to provide privacy notices and limit disclosure of nonpublic personal information.
+
+7.1.1 Key Requirements
+- Initial and annual privacy notices
+- Opt-out rights
+- Limits on information sharing
+- Safeguarding customer information
+
+7.2 Information Security Program
+The Bank of Example maintains an information security program as required by the GLBA Safeguards Rule.
+
+7.2.1 Key Components
+- Risk assessment
+- Information security controls
+- Service provider oversight
+- Security incident response
+- Board reporting
+
+7.3 Red Flags Rule
+The Red Flags Rule requires the Bank of Example to implement a written identity theft prevention program.
+
+7.3.1 Key Components
+- Identification of relevant red flags
+- Detection of red flags
+- Response to detected red flags
+- Periodic updates to the program
+
+8. FAIR LENDING AND FAIR HOUSING
+
+8.1 Fair Lending Laws
+The Bank of Example complies with fair lending laws that prohibit discrimination in credit transactions.
+
+8.1.1 Key Fair Lending Laws
+- Equal Credit Opportunity Act (Regulation B)
+- Fair Housing Act
+- Home Mortgage Disclosure Act (Regulation C)
+
+8.2 Fair Lending Compliance Program
+The Bank of Example maintains a fair lending compliance program to ensure compliance with fair lending laws.
+
+8.2.1 Key Components
+- Board and management oversight
+- Policies and procedures
+- Training
+- Monitoring and corrective action
+- Consumer complaints
+- Third-party oversight
+
+8.3 Fair Lending Risk Factors
+The Bank of Example monitors for fair lending risk factors, including:
+- Overt discrimination
+- Comparative evidence of discrimination
+- Evidence of disparate treatment
+- Evidence of disparate impact
+- Foreclosure discrimination
+
+Table 8.1: Fair Lending Testing Methods
+| Testing Method | Description | Frequency |
+|---------------|-------------|-----------|
+| Comparative File Review | Review of similar applicants with different outcomes | Quarterly |
+| Statistical Analysis | Analysis of approval/denial rates by prohibited basis | Annually |
+| Exception Review | Review of policy exceptions | Monthly |
+| Pricing Analysis | Review of loan pricing by prohibited basis | Quarterly |
+| Matched Pair Testing | Testing using similarly situated testers | Annually |
+
+9. COMMUNITY REINVESTMENT ACT
+
+9.1 CRA Requirements
+The Community Reinvestment Act (CRA) encourages banks to help meet the credit needs of their communities, including low- and moderate-income neighborhoods.
+
+9.1.1 Performance Standards
+- Lending test
+- Investment test
+- Service test
+- Community development test (for intermediate small banks)
+- Strategic plan (optional alternative)
+
+9.2 CRA Assessment Areas
+The Bank of Example has defined assessment areas where its CRA performance is evaluated.
+
+9.2.1 Assessment Area Requirements
+- Must consist of one or more MSAs or contiguous political subdivisions
+- Must include the geographies where the bank has its main office, branches, and deposit-taking ATMs
+- Must include the surrounding geographies where the bank has originated or purchased a substantial portion of its loans
+- May not reflect illegal discrimination
+- May not arbitrarily exclude low- or moderate-income geographies
+
+9.3 CRA Performance Evaluation
+The Bank of Example's CRA performance is evaluated periodically by its primary federal regulator.
+
+9.3.1 CRA Ratings
+- Outstanding
+- Satisfactory
+- Needs to Improve
+- Substantial Noncompliance
+
+9.4 CRA Public File
+The Bank of Example maintains a CRA public file that includes:
+- All written comments received from the public in the past three years
+- A copy of the public section of the bank's most recent CRA performance evaluation
+- A list of the bank's branches, their street addresses, and geographies
+- A list of branches opened or closed during the current and prior two calendar years
+- A list of services offered at the bank's branches
+- A map of each assessment area
+
+10. REGULATORY EXAMINATION PREPARATION
+
+10.1 Examination Types
+The Bank of Example is subject to various regulatory examinations, including:
+- Safety and soundness examinations
+- Compliance examinations
+- CRA examinations
+- BSA/AML examinations
+- IT examinations
+- Trust examinations (if applicable)
+
+10.2 Examination Cycle
+The frequency of examinations depends on the bank's size, condition, and risk profile.
+
+Table 10.1: Typical Examination Cycle
+| Asset Size | CAMELS Rating | Examination Frequency |
+|------------|--------------|----------------------|
+| Under $3 billion | 1 or 2 | 18 months |
+| Under $3 billion | 3, 4, or 5 | 12 months |
+| Over $3 billion | Any | 12 months |
+
+10.3 Pre-Examination Preparation
+The Bank of Example takes the following steps to prepare for regulatory examinations:
+- Review prior examination reports and correspondence
+- Address outstanding issues from prior examinations
+- Review compliance with new or changed regulations
+- Conduct self-assessments
+- Prepare requested information
+- Schedule key personnel
+- Reserve adequate workspace for examiners
+
+10.4 During the Examination
+During an examination, the Bank of Example:
+- Designates a primary contact person
+- Responds promptly to examiner requests
+- Documents all information provided to examiners
+- Maintains open communication with the examination team
+- Addresses any concerns raised during the examination
+
+10.5 Post-Examination Follow-Up
+After an examination, the Bank of Example:
+- Reviews the examination report
+- Develops action plans for any identified issues
+- Implements corrective actions
+- Reports progress to the Board of Directors
+- Communicates with regulators as needed
+
+END OF DOCUMENT 

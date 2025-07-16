@@ -1,0 +1,334 @@
+COMMERCIAL LENDING GUIDE
+BANK OF EXAMPLE
+Version 2.5 - 2023
+
+TABLE OF CONTENTS
+1. COMMERCIAL LENDING OVERVIEW
+2. COMMERCIAL LOAN PRODUCTS
+3. COMMERCIAL REAL ESTATE LOANS
+4. BUSINESS LINES OF CREDIT
+5. EQUIPMENT FINANCING
+6. SBA LOAN PROGRAMS
+7. UNDERWRITING STANDARDS
+8. LOAN PRICING AND TERMS
+9. DOCUMENTATION REQUIREMENTS
+10. LOAN MONITORING AND SERVICING
+
+1. COMMERCIAL LENDING OVERVIEW
+
+1.1 Introduction
+The Bank of Example is committed to supporting businesses in our community through a variety of commercial lending products. Our commercial lending team provides personalized service and expertise to help businesses achieve their financial goals.
+
+1.2 Relationship Banking Approach
+Our commercial lending philosophy is based on building strong relationships with our business customers. We take the time to understand each business's unique needs and challenges to provide tailored financial solutions.
+
+1.3 Target Industries
+While we serve businesses across all industries, we have specialized expertise in the following sectors:
+- Manufacturing
+- Healthcare
+- Professional Services
+- Retail
+- Hospitality
+- Construction
+- Agriculture
+
+2. COMMERCIAL LOAN PRODUCTS
+
+2.1 Term Loans
+Term loans provide a lump sum of capital that is repaid with regular payments over a set period. These loans are ideal for major investments such as equipment purchases, business expansion, or acquisition financing.
+
+Table 2.1: Commercial Term Loan Options
+| Loan Type | Term Range | Typical Use |
+|-----------|------------|-------------|
+| Short-Term | 1-3 years | Working capital, inventory financing |
+| Medium-Term | 3-7 years | Equipment, vehicle financing |
+| Long-Term | 7-15 years | Business acquisition, major expansion |
+
+2.2 Commercial Loan Rates and Terms
+Interest rates for commercial term loans are determined based on the borrower's creditworthiness, business financials, loan term, and prevailing market rates.
+
+Table 2.2: Commercial Term Loan Rates (as of January 2023)
+| Term | Prime-Based Rate | Fixed Rate Range |
+|------|-----------------|-----------------|
+| 1-3 Years | Prime + 1.00% to 3.00% | 7.50% - 9.50% |
+| 3-7 Years | Prime + 1.25% to 3.25% | 7.75% - 9.75% |
+| 7-15 Years | Prime + 1.50% to 3.50% | 8.00% - 10.00% |
+
+2.3 Amortization Schedules
+Commercial term loans typically follow standard amortization schedules, though customized repayment structures can be arranged based on business cash flow needs.
+
+Table 2.3: Typical Amortization Periods
+| Loan Purpose | Typical Amortization |
+|--------------|---------------------|
+| Working Capital | 1-3 years |
+| Equipment | 5-7 years |
+| Vehicles | 5-7 years |
+| Business Acquisition | 7-10 years |
+| Commercial Real Estate | Up to 25 years |
+
+3. COMMERCIAL REAL ESTATE LOANS
+
+3.1 Owner-Occupied Commercial Real Estate
+Loans for properties where the business occupies at least 51% of the space. These loans typically offer more favorable terms than investor properties.
+
+3.1.1 Loan Features
+- Loan-to-Value (LTV): Up to 80%
+- Terms: 5, 7, or 10-year fixed rate with 15-25 year amortization
+- Balloon payment at end of fixed term
+- Prepayment penalties may apply
+
+3.2 Investment Commercial Real Estate
+Loans for income-producing properties such as office buildings, retail centers, industrial properties, and multi-family housing.
+
+3.2.1 Loan Features
+- Loan-to-Value (LTV): Up to 75%
+- Terms: 5, 7, or 10-year fixed rate with 15-25 year amortization
+- Debt Service Coverage Ratio (DSCR): Minimum 1.25x
+- Personal guarantees typically required
+
+3.3 Construction Loans
+Short-term loans to finance the construction of commercial buildings or major renovations.
+
+3.3.1 Loan Features
+- Loan-to-Cost (LTC): Up to 80%
+- Loan-to-Value (LTV): Up to 75% of completed value
+- Interest-only payments during construction
+- Converts to permanent financing upon completion
+- Draw schedule based on construction milestones
+
+Table 3.1: Commercial Real Estate Loan Rates (as of January 2023)
+| Loan Type | 5-Year Fixed | 7-Year Fixed | 10-Year Fixed |
+|-----------|--------------|--------------|---------------|
+| Owner-Occupied | 7.50% | 7.75% | 8.00% |
+| Investment Property | 7.75% | 8.00% | 8.25% |
+| Construction-to-Permanent | 8.00% | 8.25% | 8.50% |
+
+4. BUSINESS LINES OF CREDIT
+
+4.1 Working Capital Lines of Credit
+Revolving credit lines designed to help businesses manage cash flow fluctuations, inventory purchases, and short-term working capital needs.
+
+4.1.1 Line of Credit Features
+- Revolving credit structure
+- 12-month term with annual renewal
+- Interest only on funds used
+- Variable rate tied to Prime Rate
+- Collateral may include accounts receivable, inventory, or general business assets
+
+4.2 Asset-Based Lines of Credit
+Credit lines secured by specific business assets, typically accounts receivable and inventory. Borrowing base determined by eligible collateral value.
+
+4.2.1 Asset-Based Lending Features
+- Advance rates: 70-80% of eligible accounts receivable, 50% of eligible inventory
+- Monthly borrowing base certificates required
+- Field audits conducted periodically
+- Higher credit limits available compared to unsecured lines
+
+4.3 Business Credit Cards
+Business credit cards provide convenient access to credit for everyday business expenses and offer rewards programs tailored to business needs.
+
+Table 4.1: Business Line of Credit Rates (as of January 2023)
+| Line of Credit Type | Interest Rate | Annual Fee |
+|---------------------|---------------|------------|
+| Unsecured (up to $100,000) | Prime + 2.00% to 5.00% | $150 - $300 |
+| Secured by Business Assets | Prime + 1.00% to 3.00% | $250 - $500 |
+| Asset-Based | Prime + 0.75% to 2.50% | 0.25% - 0.50% of line amount |
+
+5. EQUIPMENT FINANCING
+
+5.1 Equipment Loans
+Term loans specifically designed to finance the purchase of business equipment, machinery, vehicles, or technology.
+
+5.1.1 Equipment Loan Features
+- Financing up to 100% of equipment value
+- Terms from 3-7 years based on equipment type and useful life
+- Fixed interest rates
+- Equipment serves as collateral
+
+5.2 Equipment Leasing
+Leasing options allow businesses to use equipment without purchasing it outright, preserving capital and providing tax advantages.
+
+5.2.1 Lease Types
+- Operating Lease: Off-balance sheet financing with lower payments and equipment returned at end of term
+- Capital Lease: On-balance sheet financing with ownership transfer at end of term
+- Sale-Leaseback: Converts owned equipment to leased equipment to free up capital
+
+Table 5.1: Equipment Financing Rates and Terms (as of January 2023)
+| Equipment Type | Term | Rate Range | Maximum Financing |
+|----------------|------|------------|------------------|
+| Manufacturing Equipment | 5-7 years | 7.50% - 9.00% | 100% |
+| Construction Equipment | 3-5 years | 7.75% - 9.25% | 90% |
+| Vehicles | 3-5 years | 7.25% - 8.75% | 100% |
+| Technology/Software | 2-3 years | 8.00% - 9.50% | 80% |
+| Medical Equipment | 5-7 years | 7.50% - 9.00% | 100% |
+
+6. SBA LOAN PROGRAMS
+
+6.1 SBA 7(a) Loans
+The SBA 7(a) loan program is the SBA's primary program for providing financial assistance to small businesses. The Bank of Example is an SBA Preferred Lender.
+
+6.1.1 SBA 7(a) Loan Features
+- Loan amounts up to $5 million
+- Longer repayment terms (up to 10 years for working capital, 25 years for real estate)
+- Lower down payments (typically 10%)
+- SBA guaranty of 75-85% of loan amount
+- No balloon payments
+
+6.2 SBA 504 Loans
+The SBA 504 loan program provides long-term, fixed-rate financing for major fixed assets such as land, buildings, and equipment.
+
+6.2.1 SBA 504 Loan Structure
+- 50% funded by the bank
+- 40% funded by a Certified Development Company (CDC), backed by the SBA
+- 10% equity contribution from the borrower
+- Fixed rates on the CDC portion
+- Terms up to 25 years for real estate, 10 years for equipment
+
+6.3 SBA Express Loans
+Streamlined application process with faster approval for loans up to $500,000.
+
+Table 6.1: SBA Loan Program Comparison
+| Feature | SBA 7(a) | SBA 504 | SBA Express |
+|---------|----------|---------|------------|
+| Maximum Loan Amount | $5 million | $5.5 million | $500,000 |
+| Maximum SBA Guaranty | 75-85% | 40% | 50% |
+| Use of Proceeds | Multiple uses | Fixed assets only | Multiple uses |
+| Term | Up to 10 years (working capital), 25 years (real estate) | 10 years (equipment), 25 years (real estate) | Up to 7 years (line of credit), 25 years (term loan) |
+| Down Payment | Typically 10% | 10% | Varies |
+| Approval Time | 2-3 weeks | 30-45 days | 36 hours |
+
+7. UNDERWRITING STANDARDS
+
+7.1 Financial Requirements
+The Bank of Example evaluates the following financial criteria when underwriting commercial loans:
+
+7.1.1 Business Financial Requirements
+- Debt Service Coverage Ratio (DSCR): Minimum 1.20x
+- Current Ratio: Minimum 1.20x
+- Debt-to-Worth Ratio: Maximum 4.0x
+- Profitability: Positive trend in net income
+- Working Capital: Sufficient for business operations
+
+7.1.2 Personal Financial Requirements (for Guarantors)
+- Personal Credit Score: Minimum 680
+- Personal Debt-to-Income Ratio: Maximum 45%
+- Liquidity: Sufficient personal reserves
+- Net Worth: Commensurate with loan size
+
+7.2 Industry-Specific Considerations
+Underwriting standards may be adjusted based on industry norms and risk factors. Higher-risk industries may require stronger financial metrics and additional collateral.
+
+Table 7.1: Industry Risk Tiers and Requirements
+| Risk Tier | Industries | DSCR Requirement | Maximum LTV |
+|-----------|------------|------------------|------------|
+| Tier 1 (Low Risk) | Professional Services, Healthcare | 1.20x | 80% |
+| Tier 2 (Moderate Risk) | Manufacturing, Wholesale | 1.25x | 75% |
+| Tier 3 (Elevated Risk) | Retail, Hospitality, Construction | 1.30x | 70% |
+| Tier 4 (High Risk) | Restaurants, Entertainment, Startups | 1.35x | 65% |
+
+8. LOAN PRICING AND TERMS
+
+8.1 Interest Rate Structure
+Commercial loan interest rates are structured as either:
+- Fixed Rate: Rate remains constant throughout the loan term
+- Variable Rate: Rate adjusts based on a reference rate (typically Prime Rate)
+- Hybrid: Fixed for an initial period, then converts to variable
+
+8.2 Loan Fees
+Standard fees associated with commercial loans include:
+
+Table 8.1: Commercial Loan Fee Schedule
+| Fee Type | Typical Amount |
+|----------|----------------|
+| Origination Fee | 0.50% - 1.00% of loan amount |
+| Documentation Fee | $500 - $1,000 |
+| Appraisal Fee | $2,500 - $5,000+ (based on property type) |
+| Environmental Review | $1,500 - $3,500 |
+| SBA Guaranty Fee | 2.00% - 3.75% of guaranteed portion |
+| Annual Servicing Fee | 0.25% - 0.50% (for certain loan types) |
+
+8.3 Prepayment Provisions
+Commercial loans may include prepayment penalties to compensate the bank for interest income lost due to early payoff. Typical structures include:
+
+8.3.1 Prepayment Penalty Options
+- Declining percentage (e.g., 5-4-3-2-1)
+- Yield maintenance
+- Step-down percentage
+- No penalty (available for certain loan types)
+
+9. DOCUMENTATION REQUIREMENTS
+
+9.1 Business Documentation
+Standard documentation required for commercial loan applications includes:
+
+9.1.1 Business Financial Documentation
+- 3 years of business tax returns
+- 3 years of business financial statements (balance sheet, income statement, cash flow)
+- Year-to-date financial statements (within 90 days)
+- Accounts receivable and accounts payable aging reports
+- Business debt schedule
+- Projected financials (for new businesses or expansion projects)
+
+9.1.2 Business Organizational Documentation
+- Articles of incorporation or organization
+- Bylaws or operating agreement
+- Certificate of good standing
+- Business license
+- Ownership verification
+- Corporate resolutions authorizing borrowing
+
+9.2 Personal Documentation (for Guarantors)
+- 2 years of personal tax returns
+- Personal financial statement
+- Authorization to pull credit report
+- Personal identification
+
+9.3 Collateral Documentation
+- Real estate: Appraisal, environmental assessment, title insurance
+- Equipment: Invoice, appraisal or valuation
+- Accounts receivable: Aging report, customer concentration analysis
+- Inventory: Listing, valuation method
+
+10. LOAN MONITORING AND SERVICING
+
+10.1 Financial Reporting Requirements
+Ongoing financial reporting requirements typically include:
+- Annual business tax returns
+- Annual financial statements
+- Quarterly financial statements (for larger loans)
+- Annual personal tax returns and financial statements from guarantors
+- Annual business insurance verification
+
+10.2 Loan Covenants
+Commercial loans may include financial and operational covenants to protect the bank's interests:
+
+10.2.1 Common Financial Covenants
+- Minimum Debt Service Coverage Ratio (typically 1.20x)
+- Maximum Debt-to-Worth Ratio
+- Minimum Working Capital
+- Minimum Current Ratio
+- Limits on additional debt
+
+10.2.2 Common Operational Covenants
+- Key person life insurance
+- Restrictions on management changes
+- Restrictions on asset sales
+- Reporting requirements
+- Insurance requirements
+
+10.3 Loan Default and Remedies
+In the event of loan default, the Bank of Example will work with borrowers to find solutions when possible. Default triggers may include:
+- Payment default (typically 10+ days past due)
+- Covenant violations
+- Material adverse change in business conditions
+- Bankruptcy or insolvency
+- Misrepresentation
+
+10.3.1 Default Remedies
+- Increased interest rate (default rate)
+- Acceleration of loan balance
+- Enforcement of guarantees
+- Collateral liquidation
+- Legal action
+
+END OF DOCUMENT 

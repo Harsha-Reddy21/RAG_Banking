@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+openai
+streamlit
+faiss-cpu
+tiktoken
+python-dotenv
+pypdf
+unstructured
+langchain-community
+pandas
+chromadb
+pdfplumber
